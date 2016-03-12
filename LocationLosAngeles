@@ -1,0 +1,29 @@
+<!DDCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="CSS/styles.css">
+ 
+  </head>
+  <body>
+  	<div class = "map">
+  	<iframe src="https://www.google.com/maps/place/Beverly+Hills,+CA/@34.082615,-118.4346393,13z/data=!3m1!4b1!4m2!3m1!1s0x80c2bc04d6d147ab:0xd6c7c379fd081ed1" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+  		</div>
+  </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
